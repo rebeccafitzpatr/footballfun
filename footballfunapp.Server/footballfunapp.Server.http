@@ -1,0 +1,6 @@
+@footballfunapp.Server_HostAddress = http://localhost:5031
+
+GET {{footballfunapp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
